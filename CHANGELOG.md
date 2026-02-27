@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Lutherwaves/README/compare/v1.3.0...v1.4.0) (2026-02-27)
+
+
+### Features
+
+* update nav labels, badges, skills section, and Why Work With Me ([72312fe](https://github.com/Lutherwaves/README/commit/72312feef6471a34b496cbd9c7697c723862a118))
+
 # [1.3.0](https://github.com/Lutherwaves/README/compare/v1.2.0...v1.3.0) (2026-02-27)
 
 
