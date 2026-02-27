@@ -31,6 +31,7 @@ I live in the terminal. I don't use VSCode — I work in Cursor and Claude Code 
 Trilingual: English, German, Bulgarian.
 
 > For more about who I am as a builder, see [MARTIN.md](MARTIN.md).
+> For the HR-friendly version, see [BORING.md](BORING.md).
 
 ---
 
@@ -152,4 +153,4 @@ Happy to help with open source projects, ideation, or whatever.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) — because of course it is.
+This project is licensed under the [MIT License](LICENSE.md).
