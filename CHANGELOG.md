@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Lutherwaves/README/compare/v1.2.0...v1.3.0) (2026-02-27)
+
+
+### Features
+
+* add Jekyll layout, print stylesheet, and Save as PDF for BORING.md ([ed6052e](https://github.com/Lutherwaves/README/commit/ed6052e2cb11e5808c1bb5a6c0e62dfc5a47ccc3))
+
 # [1.2.0](https://github.com/Lutherwaves/README/compare/v1.1.0...v1.2.0) (2026-02-27)
 
 
