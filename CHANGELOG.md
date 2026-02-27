@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Lutherwaves/README/compare/v1.1.0...v1.2.0) (2026-02-27)
+
+
+### Features
+
+* add BORING.md for HR, add EVIS role, refine details across all roles ([c221b82](https://github.com/Lutherwaves/README/commit/c221b82a155e27470a6eea7c01f5d26dc64152b9))
+
 # [1.1.0](https://github.com/Lutherwaves/README/compare/v1.0.0...v1.1.0) (2026-02-27)
 
 
