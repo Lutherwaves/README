@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <nav class="site-nav no-print">
+    <a href="{{ '/' | relative_url }}">README</a>
+    <a href="{{ '/MARTIN' | relative_url }}">MARTIN</a>
+    <a href="{{ '/BORING' | relative_url }}">BORING</a>
+  </nav>
+  <main class="content">
+    {{ content }}
+  </main>
+  <script>
+    // Add print button only on BORING page
+    if (window.location.pathname.includes('BORING')) {
+      var btn = document.createElement('button');
+      btn.textContent = 'Save as PDF';
+      btn.className = 'print-btn no-print';
+      btn.onclick = function() { window.print(); };
+      document.querySelector('.content').prepend(btn);
+    }
+  </script>
+</body>
+</html>

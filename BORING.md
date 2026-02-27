@@ -1,11 +1,8 @@
-# Martin Yankov — The Boring Version
+# Martin Yankov
 
 > This is the HR-friendly, ATS-compatible, no-personality version of my resume.
 > For the real one, see [README.md](README.md).
 
----
-
-**Martin Yankov**
 Software Engineering Lead
 Stara Zagora, Bulgaria | martin@yankovs.com | [linkedin.com/in/mdyankov](https://www.linkedin.com/in/mdyankov)
 
