@@ -6,7 +6,9 @@
 [![Open Source](https://img.shields.io/badge/Open%20Source-Believer-brightgreen.svg)](#open-source)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Max%20Subscriber-blueviolet.svg)](#about)
 
-> Software Engineering Lead | Stara Zagora, Bulgaria
+> Builder, creator and solver of problems — in software, but I also know other stuff | Stara Zagora, Bulgaria
+>
+> *Written with AI assistance. The words are polished, but the essence is all me.*
 
 `martin@yankovs.com` | [linkedin.com/in/mdyankov](https://www.linkedin.com/in/mdyankov) | [yankovs.com](https://yankovs.com)
 
@@ -14,15 +16,17 @@
 
 ## About
 
-Full-stack engineer and team lead with 8+ years building cloud infrastructure, governance, and FinOps tooling. I ask a lot of questions — it's how I make sure we're solving the right problem for the right people.
+Passionate software builder with over 10 years of experience writing buggy software, iterating over it until it has less bugs, and then doing it all over again. Cloud infrastructure, governance, FinOps tooling — as both engineer and team lead. I ask a lot of questions — it's how I make sure we're solving the right problem for the right people.
 
 I'm result-driven but value-driven first. If something doesn't serve the user or move the company forward, I want to understand why we're doing it. I care deeply about the user perspective and making sure engineering effort translates into real outcomes.
 
 **Strong believer in convention over configuration, opinionated frameworks, and consistent code.** I'd rather follow an established pattern well than reinvent it.
 
-I'm also a supercommunicator — I thrive in cross-team collaboration, translating between business needs and technical execution, and making sure everyone is aligned before we build.
+I'm also a supercommunicator — I go into meetings to discuss the things that can't be resolved async, and I make sure we leave with results. Outside of meetings, whatever the channel is, I'm there. I leave a footprint. I make sure everyone is aligned before, while, and after we build.
 
-I live in the terminal. I don't use VSCode — I work in Cursor and Claude Code hourly, not daily. Active Claude Code Max subscriber, maxing out my subscription every week building side projects. I tmux from my phone — building while waiting at the supermarket, at the bank, wherever. I am addicted to building things and I'm never going to stop.
+**I build and I operate what I build.** That's the learning loop — VMware taught me this, Broadcom reinforced it. You don't truly understand what you've built until you're the one on-call for it at 3am.
+
+I live in the terminal. I don't use VSCode — I work in Cursor and Claude Code hourly, not daily. Active Claude Code Max subscriber, maxing out my subscription every week building side projects. With AI, I'm just 100x faster at making mistakes and learning from them. I tmux from my phone — building while waiting at the supermarket, at the bank, wherever. I am addicted to building things and I'm never going to stop.
 
 Trilingual: English, German, Bulgarian.
 
@@ -32,9 +36,9 @@ Trilingual: English, German, Bulgarian.
 
 ## Open Source
 
-I believe that with AI on the rise, generic software has no business being closed and proprietary. Let chip manufacturers keep their secrets to drive competition — everything else should be open.
+I believe that with AI on the rise, generic software has no business being closed and proprietary. Niche, competitive industries have their reasons for keeping things closed — but everything else should be open.
 
-I put my money where my mouth is: sponsor of **llama.cpp**, **Open WebUI**, and **OpenClaw**. Active contributor and consultant for **Open WebUI** specifically.
+I put my money where my mouth is: sponsor of [**llama.cpp**](https://github.com/ggml-org/llama.cpp), [**Open WebUI**](https://github.com/open-webui/open-webui), and [**OpenClaw**](https://github.com/openclaw/openclaw). Active maintainer of [**tink3rlabs/magic**](https://github.com/tink3rlabs/magic) — a framework that follows a battle-tested library we developed back at VMware. Contributor to Open WebUI and OpenClaw amongst other projects. I help the community proactively — wherever it lives.
 
 ---
 
@@ -44,7 +48,7 @@ I put my money where my mouth is: sponsor of **llama.cpp**, **Open WebUI**, and 
 
 *Jan 2024 – Present*
 
-Learned to do more with less. Built everything so nothing is bottlenecked on me — a clean handoff is just a doc with repo links. Wrote more code here than in all my previous roles combined.
+Learned to do more with less. Built and operated everything — nothing is bottlenecked on me. A clean handoff is just a doc with repo links. Wrote more code here than in all my previous roles combined, and with AI in the loop, iterated faster than ever.
 
 - Built Broadcom's cloud inventory and chargeback system — ensuring every account, project, and subscription across AWS, GCP, and Azure is attributed to the right team with accurate billing data, giving Product BUs a realistic picture of their cloud spend
 - Stuck to established patterns throughout: REST, OpenAPI, microservices — simple, maintainable, no reinvention
@@ -64,7 +68,7 @@ Learned that management problems require a human touch on top of technical depth
 
 *Jan 2021 – Dec 2022*
 
-Joined a small team that needed to scale fast. Got my first task, completed five more in two weeks. Three weeks in, was selected to lead the transition of an entire workload from another team. Did 11 things at once every week — and there was no AI, so it was all raw.
+Joined a small team that needed to scale fast. Got my first task, completed five more in two weeks. Three weeks in, was selected to lead the transition of an entire workload from another team. Did 11 things at once every week — and there was no AI, so it was all raw. This is where I learned that building and operating are the same discipline.
 
 - Co-architected a ground-up refactor of an event-driven multi-cloud access platform (Terraform + Lambdas deploying across 17,000+ accounts in all AWS regions simultaneously) — 99.9999% availability, strict monitoring, observability, on-call
 - The platform provided just-in-time credentials used by all SRE teams to access and troubleshoot cloud accounts
@@ -129,6 +133,20 @@ Went to the interview, answered zero questions correctly. The CTO said "you know
 
 - Modular system for preparatory repairs of buildings (BG, 2020)
 - Construction process management and control system (BG, 2020)
+
+---
+
+## Why Work With Me
+
+You need someone who won't just take a ticket and disappear. Someone who'll ask "why are we building this?" before writing a single line — and save you three weeks of wasted effort.
+
+You need someone who builds and operates. Not a developer who throws code over the fence, but one who monitors it, owns it, and fixes it when it breaks at 3am.
+
+You need someone who communicates. Who keeps you in the loop without being managed. Who shows up in every channel, every standup, every incident — and leaves things better than they were.
+
+You need someone who stays sharp. Who builds on weekends not because they have to, but because they can't stop. Who treats every new tool, framework, and failure as a chance to learn.
+
+Happy to help with open source projects, ideation, or whatever.
 
 ---
 

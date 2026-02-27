@@ -22,23 +22,23 @@ I believe in convention over configuration. Opinionated frameworks exist for a r
 
 ## The Addiction
 
-I am a Claude Code Max subscriber. I max out my subscription every single week.
+I juggle all of this while being present with my family — without losing touch with either side. That's the constraint that makes me efficient. When I do get a gap of time, I use it.
 
-I tmux from my phone. I build side projects while waiting at the supermarket. While sitting in the bank. While waiting for anything. If there's a gap of time and I have a terminal, I'm writing code.
+I tmux from my phone. I build side projects while waiting at the supermarket. While sitting in the bank. While waiting for anything. If there's a terminal, I'm writing code. Cursor and Claude Code are open on my machine hourly, not daily.
 
-This isn't discipline — it's addiction. I genuinely cannot stop building things. Every new tool, every new API, every new problem is a pull I can't resist. Cursor and Claude Code are open on my machine hourly, not daily.
+It's not discipline — it's just how I'm wired. Every new tool, every new API, every new problem is a pull I can't resist.
 
 ## Open Source
 
 With AI accelerating everything, I believe generic software has no business being closed and proprietary. The future is open.
 
-I sponsor **llama.cpp**, **Open WebUI**, and **OpenClaw**. I'm an active contributor and consultant for **Open WebUI** specifically. Open source isn't a philosophy for me — it's how software should work.
+I sponsor **llama.cpp**, **Open WebUI**, and **OpenClaw**. I contribute where I can and help the community wherever it lives. Open source isn't a philosophy for me — it's how software should work.
 
 ## What You Get
 
-A builder who cares about outcomes, not optics. Someone who'll question the plan before blindly executing it. An engineer who stays technical no matter the title. A communicator who can bridge business and engineering without losing either side.
+Someone who cares about outcomes, not optics. Who'll question the plan before blindly executing it. An engineer who stays technical no matter the title. A communicator who bridges business and engineering without losing either side.
 
-I've led teams, I've been the solo dev, I've inherited legacy systems and built greenfield products. The constant across all of it: I ship things that work, I keep things simple, and I never stop learning.
+I've led teams, I've been the solo dev, I've inherited legacy systems and built greenfield products. I don't have all the answers — but I'll ask the right questions until we find them.
 
 ---
 
