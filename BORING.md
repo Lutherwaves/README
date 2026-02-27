@@ -1,8 +1,5 @@
 # Martin Yankov
 
-> This is the HR-friendly, ATS-compatible, no-personality version of my resume.
-> For the real one, see [README.md](README.md).
-
 Software Engineering Lead
 Stara Zagora, Bulgaria | martin@yankovs.com | [linkedin.com/in/mdyankov](https://www.linkedin.com/in/mdyankov)
 
@@ -10,7 +7,7 @@ Stara Zagora, Bulgaria | martin@yankovs.com | [linkedin.com/in/mdyankov](https:/
 
 ## Professional Summary
 
-Software Engineering Lead with 10+ years of experience in cloud infrastructure, FinOps, IAM governance, and full-stack development. Proven track record leading distributed teams, building internal platforms at scale across AWS, GCP, and Azure, and delivering measurable cost savings and security improvements at billion- and trillion-dollar enterprises.
+Software Engineering Lead with 10+ years of experience in cloud infrastructure, FinOps, IAM governance, and full-stack development. Led distributed teams and built internal platforms at scale across AWS, GCP, and Azure at VMware and Broadcom. Navigated the Broadcom-VMware acquisition as a sole transition into a new organization, standing up new systems while shutting down and transferring previous ones.
 
 ---
 
@@ -20,22 +17,27 @@ Software Engineering Lead with 10+ years of experience in cloud infrastructure, 
 
 *January 2024 – Present*
 
-- Designed and built Broadcom's cloud inventory and chargeback platform, managing cost attribution across 17,000+ accounts on AWS, GCP, and Azure
-- Delivered FinOps automation that saves product teams millions annually through CUD optimization, spend analysis, and negotiation-ready data enabling aggressive discount agreements
+- Designed and built Broadcom's company-wide cloud inventory and chargeback platform from the ground up, initially as sole developer, later scaling to a team with microservice architecture deployed on GKE with Helm and fully automated CI/CD through GitOps
+- Platform serves all Broadcom business units across both Software and Semiconductor divisions (VCF, ESG, AOD amongst the largest), managing terabytes of billing data and millions of dollars in spend across AWS, GCP, Azure, and additional hyperscalers including Alibaba, Azure China, Oracle, and IBM
+- CUD engineering, spend optimization, and wastage reduction efforts contributed to tens of millions of dollars in savings
 - Personally identified and decommissioned 5,000+ orphaned and stale cloud accounts, reducing waste and security exposure
-- Built APIs, interfaces, and AI-driven tooling for automated cloud resource tagging, metadata management, budget alerting, compliance enforcement, and wastage reduction
-- Architected all services using OpenAPI, Node.js/Express, and Angular with zero single points of failure — no operational bottleneck on any individual
+- Enabled SecOps to automatically enrich security data with accurate account ownership, reducing time to contact owners on identified vulnerabilities from hours to minutes
+- Achieved high product adoption with dozens of daily active users across engineering, finance, and security teams
+- Architected all services using OpenAPI, Node.js/Express, and Angular with zero single points of failure
 
 ### R&D Manager | VMware
 
 *December 2022 – January 2024*
 
-- Managed a globally distributed engineering team responsible for Public Cloud Governance across thousands of accounts in AWS, GCP, and Azure
-- Operated a ring-0 internal cloud access service at 99.999% availability, used by all VMware SRE teams
+- Managed a sub-team of 6 engineers within a wider organization of 30 distributed across Ireland, India, US, Bulgaria, and Armenia, responsible for Public Cloud Governance across 12,000+ accounts in AWS, GCP, and Azure
+- Operated a ring-0 internal cloud access service at 99.999% availability, depended on daily by all VMware SRE teams
+- Participated in weekly on-call rotation (2-person coverage), handling PagerDuty alerts, ticket queue processing, and support escalations following established incident procedures
+- Led post-incident reviews, Jira follow-ups, root cause analysis, and presented incident findings to senior leadership
 - Balanced roadmap delivery across feature development, SOC2/PCI DSS/ISO compliance, and operational load
 - Contributed to catching and mitigating dozens of potential security breaches through centralized IAM governance
 - The team's SOC2/PCI-compliant platform served as VMware's central access control layer, significantly reducing the company's attack surface since inception
 - Led automation of deployments to thousands of accounts across all cloud providers
+- During the Broadcom acquisition, managed knowledge transfer of the team's systems to dedicated VCF teams, shut down legacy services, and transitioned solo into Broadcom's internal FinOps organization
 
 ### Full Stack Software Engineer | VMware
 
@@ -46,7 +48,7 @@ Software Engineering Lead with 10+ years of experience in cloud infrastructure, 
 - Automated full cloud account lifecycle — creation, configuration, usage, and deletion — across AWS, GCP, and Azure, including GovCloud integration and company acquisition onboarding
 - Personally automated numerous manual tasks: account creation/deletion, build pipelines, and cross-cloud provisioning workflows, significantly reducing build and deployment time
 - Helped establish team standards for documentation, Jira tracking, CI/CD, and development practices, enabling the team to scale operations
-- Co-authored published technical blogs in collaboration with AWS and GCP
+- Co-authored published technical blogs in collaboration with AWS and GCP (available on [LinkedIn](https://www.linkedin.com/in/mdyankov/))
 
 ### Full Stack Software Engineer | TEKOM
 
@@ -80,7 +82,6 @@ Software Engineering Lead with 10+ years of experience in cloud infrastructure, 
 
 *December 2017 – December 2019*
 
-- Primarily a learning role — contributed where I could while absorbing everything about building real products
 - Built and maintained data science web applications for customer automation and churn reduction on Azure
 - Improved database and backend structures to increase machine learning algorithm performance
 - Redesigned frontend UX in Vue.js, improving usability and engagement
@@ -92,8 +93,7 @@ Software Engineering Lead with 10+ years of experience in cloud infrastructure, 
 
 *December 2016 – July 2017*
 
-- Built, SEO-optimized, and published 5–6 websites maintained in raw PHP
-- Developed and launched company website and subsidiary websites using PHP and Bootstrap
+- Built, SEO-optimized, and published 5–6 websites in raw PHP and Bootstrap, including company main site and subsidiary sites
 - Built internal mobile time recording system for employees
 
 ---
@@ -107,13 +107,23 @@ Software Engineering Lead with 10+ years of experience in cloud infrastructure, 
 ## Technical Skills
 
 - **Cloud Platforms:** AWS, GCP, Azure
-- **Container Orchestration:** Kubernetes, GKE, EKS
-- **Infrastructure as Code:** Terraform
-- **Backend:** Node.js, Express, Go, Django, OpenAPI, GraphQL
+- **AWS:** Lambda, Step Functions, CloudTrail, CloudWatch, S3, EC2, API Gateway, Secrets Manager, IAM, Cost Explorer, Organizations, GovCloud
+- **GCP:** Cloud Run, Pub/Sub, GCR, GKE, Cloud Storage, IAM, Organizations
+- **Azure:** Azure Functions, IAM, Organizations
+- **Container & Orchestration:** Kubernetes, GKE, EKS, Helm, Docker
+- **Infrastructure as Code:** Terraform, CloudFormation, GitOps
+- **Languages:** TypeScript, JavaScript, Go, Python, Bash, PHP
+- **Backend:** Node.js, Express, Django, OpenAPI, REST, GraphQL
+- **Architecture:** Event-driven, microservices, Pub/Sub, orchestration, serverless
 - **Frontend:** Angular, React, Vue, Ionic
-- **Monitoring & Observability:** Grafana, Prometheus
-- **Compliance:** SOC2, PCI DSS, ISO
-- **Domains:** FinOps, IAM, Cloud Governance, Security
+- **Databases:** PostgreSQL, MySQL, DynamoDB, Cassandra
+- **Monitoring & Observability:** Grafana, Prometheus, Wavefront, PagerDuty, ELK Stack
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins, GitOps
+- **Auth & Security:** OAuth, JWT, RBAC, IAM policies, least-privilege
+- **Compliance:** SOC2, PCI DSS, ISO auditing
+- **Tools:** Git, Linux, Nginx, JSON/YAML
+- **Methodology:** Agile, Scrum, Kanban
+- **Domains:** FinOps, IAM, Cloud Governance, Security, Incident Management
 
 ---
 

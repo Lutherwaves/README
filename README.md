@@ -4,7 +4,8 @@
 [![Deploy to GitHub Pages](https://github.com/Lutherwaves/README/actions/workflows/pages.yml/badge.svg)](https://github.com/Lutherwaves/README/actions/workflows/pages.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Believer-brightgreen.svg)](#open-source)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Max%20Subscriber-blueviolet.svg)](#about)
+[![Claude Max](https://img.shields.io/badge/Claude-Max-blueviolet.svg)](#about)
+[![Neovim](https://img.shields.io/badge/Neovim-User-57A143.svg?logo=neovim&logoColor=white)](#skills)
 
 > Builder, creator and solver of problems — in software, but I also know other stuff | Stara Zagora, Bulgaria
 >
@@ -45,8 +46,7 @@ I put my money where my mouth is: sponsor of [**llama.cpp**](https://github.com/
 
 ## Experience
 
-### Software Engineering Lead — Broadcom *(9/10)*
-
+### Software Engineering Lead — Broadcom
 *Jan 2024 – Present*
 
 Learned to do more with less. Built and operated everything — nothing is bottlenecked on me. A clean handoff is just a doc with repo links. Wrote more code here than in all my previous roles combined, and with AI in the loop, iterated faster than ever.
@@ -55,8 +55,7 @@ Learned to do more with less. Built and operated everything — nothing is bottl
 - Stuck to established patterns throughout: REST, OpenAPI, microservices — simple, maintainable, no reinvention
 - Became a decision evaluator — learned to get the most out of every developer, even those with zero interest in learning
 
-### R&D Manager — VMware *(8/10)*
-
+### R&D Manager — VMware
 *Dec 2022 – Jan 2024*
 
 Learned that management problems require a human touch on top of technical depth. You can't force someone to learn, but you can set the example, hold yourself accountable, and stay to a high standard. Stayed technical throughout — always on-call.
@@ -65,8 +64,7 @@ Learned that management problems require a human touch on top of technical depth
 - Learned to trust engineers with solutions and let them learn from mistakes, instead of micro-managing with "the right way according to me"
 - Owned roadmap planning, balancing SOC2/PCI DSS/ISO compliance with feature delivery
 
-### Full Stack Software Engineer — VMware *(8/10)*
-
+### Full Stack Software Engineer — VMware
 *Jan 2021 – Dec 2022*
 
 Joined a small team that needed to scale fast. Got my first task, completed five more in two weeks. Three weeks in, was selected to lead the transition of an entire workload from another team. Did 11 things at once every week — and there was no AI, so it was all raw. This is where I learned that building and operating are the same discipline.
@@ -75,8 +73,7 @@ Joined a small team that needed to scale fast. Got my first task, completed five
 - The platform provided just-in-time credentials used by all SRE teams to access and troubleshoot cloud accounts
 - Helped the team establish standards — documentation, Jira tracking, development practices — to scale from a small crew to a real operation
 
-### Full Stack Software Engineer — TEKOM *(7/10)*
-
+### Full Stack Software Engineer — TEKOM
 *Apr 2020 – Jan 2021*
 
 Grew up watching my parents' construction company build things — this role brought back that spark. Full flexibility, small budget, endless possibilities. Worked directly with on-site workers to figure out how to automate their processes, and extracted two patents out of it.
@@ -84,8 +81,7 @@ Grew up watching my parents' construction company build things — this role bro
 - Built custom software for process automation and data collection on- and off-site
 - Introduced agile practices to construction teams who'd never seen them
 
-### Full Stack Software Engineer — G Adventures *(6/10)*
-
+### Full Stack Software Engineer — G Adventures
 *Feb 2020 – Apr 2020*
 
 First time being given full ownership of a project end-to-end — "build it however you want, we'll discuss and adjust." Learned that no company will ever have a perfect internal system, things change rapidly, just like the world.
@@ -93,8 +89,7 @@ First time being given full ownership of a project end-to-end — "build it howe
 - Built API layer in Django, contributed to React/Redux/Apollo frontend for trip management
 - Used my own travel experience to drive product decisions and iterate fast
 
-### Full Stack Software Engineer — Hadoco *(8/10)*
-
+### Full Stack Software Engineer — Hadoco
 *Dec 2017 – Dec 2019*
 
 First time my engineering skills brought value to a real product. Sat desk-to-desk with the CTO discussing architecture. Full ownership, full accountability. Experimented constantly to figure out how the company could reduce customer churn.
@@ -103,8 +98,7 @@ First time my engineering skills brought value to a real product. Sat desk-to-de
 - Deployed and managed everything on Azure
 - Main developer in Founders Foundation Startup Accelerator
 
-### Junior Software Engineer — stressfrei / stressfrei Logistik *(10/10)*
-
+### Junior Software Engineer — stressfrei / stressfrei Logistik
 *Dec 2016 – Jul 2017*
 
 Went to the interview, answered zero questions correctly. The CTO said "you know this, come on," we whiteboarded solutions together, and he asked "when can you start?" I was about to quit software engineering entirely — this place lit the spark back. Never looked back since.
@@ -139,15 +133,9 @@ Went to the interview, answered zero questions correctly. The CTO said "you know
 
 ## Why Work With Me
 
-You need someone who won't just take a ticket and disappear. Someone who'll ask "why are we building this?" before writing a single line — and save you three weeks of wasted effort.
+I ask a lot of questions, I'm brutally honest, I iterate fast, and I build and operate what I ship.
 
-You need someone who builds and operates. Not a developer who throws code over the fence, but one who monitors it, owns it, and fixes it when it breaks at 3am.
-
-You need someone who communicates. Who keeps you in the loop without being managed. Who shows up in every channel, every standup, every incident — and leaves things better than they were.
-
-You need someone who stays sharp. Who builds on weekends not because they have to, but because they can't stop. Who treats every new tool, framework, and failure as a chance to learn.
-
-Happy to help with open source projects, ideation, or whatever.
+Happy to help with open source, ideation, mentoring, or anything that sparks my interest.
 
 ---
 
