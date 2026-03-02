@@ -1,4 +1,6 @@
-# Martin Yankov
+# Hi, I'm Martin 👋
+
+Builder, cloud architect, and terminal addict — currently going deep on AI agents.
 
 [![Markdown Lint](https://github.com/Lutherwaves/README/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/Lutherwaves/README/actions/workflows/markdown-lint.yml)
 [![Deploy to GitHub Pages](https://github.com/Lutherwaves/README/actions/workflows/pages.yml/badge.svg)](https://github.com/Lutherwaves/README/actions/workflows/pages.yml)
@@ -6,10 +8,15 @@
 [![Open Source](https://img.shields.io/badge/Open%20Source-Believer-brightgreen.svg)](#open-source)
 [![Claude Max](https://img.shields.io/badge/Claude-Max-blueviolet.svg)](#about)
 [![Neovim](https://img.shields.io/badge/Neovim-User-57A143.svg?logo=neovim&logoColor=white)](#skills)
-
-> Builder, creator and solver of problems — in software, but I also know other stuff | Stara Zagora, Bulgaria
->
-> *Written with AI assistance. The words are polished, but the essence is all me.*
+<br>
+[![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)](#skills)
+[![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)](#skills)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](#skills)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white)](#skills)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white)](#skills)
+[![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white)](#skills)
+[![GCP](https://img.shields.io/badge/GCP-4285F4.svg?logo=googlecloud&logoColor=white)](#skills)
+[![Azure](https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white)](#skills)
 
 `martin@yankovs.com` | [linkedin.com/in/mdyankov](https://www.linkedin.com/in/mdyankov) | [yankovs.com](https://yankovs.com)
 
