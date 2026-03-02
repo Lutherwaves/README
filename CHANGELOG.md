@@ -1,3 +1,21 @@
+# [1.5.0](https://github.com/Lutherwaves/README/compare/v1.4.0...v1.5.0) (2026-03-02)
+
+
+### Bug Fixes
+
+* remove CV-speak and Supercommunicator label from About ([981b493](https://github.com/Lutherwaves/README/commit/981b493e2a611be14ee2a9a511f6b3ca2bcb38b0))
+* sharpen What I'm Into copy with specificity ([828ee31](https://github.com/Lutherwaves/README/commit/828ee31e6e2d977799fb3b25243cd08117ffaf4f))
+
+
+### Features
+
+* add GitHub Activity section with stats widgets ([d93f74d](https://github.com/Lutherwaves/README/commit/d93f74d72c352c75bd06a5a98d9b6893e1fd826d))
+* add What I'm Into Right Now section ([4c84937](https://github.com/Lutherwaves/README/commit/4c84937a59c764c23d17ff07529347065a88827f))
+* remove Why Work With Me — README makes it self-evident ([38e0fc8](https://github.com/Lutherwaves/README/commit/38e0fc838c637c984f1685bbf4b8c9e196a5de75))
+* rewrite About with present-tense voice, absorb MARTIN.md ([f695cb0](https://github.com/Lutherwaves/README/commit/f695cb00b78cc27391daa9f2daa0c497f3b1eba2))
+* rewrite opener with direct address and expanded badge row ([34b427f](https://github.com/Lutherwaves/README/commit/34b427fe60b12e00e7c2ae8af16fb810cda91b14))
+* voice surgery on Experience — relive not report ([b878758](https://github.com/Lutherwaves/README/commit/b878758b356bd94f0ad3ae89dbc2c75cd37ba653))
+
 # [1.4.0](https://github.com/Lutherwaves/README/compare/v1.3.0...v1.4.0) (2026-02-27)
 
 
