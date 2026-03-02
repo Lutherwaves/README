@@ -30,21 +30,20 @@ Deep in AI agent territory. Running multiple agents in parallel, context-switchi
 
 ## About
 
-Passionate software builder with over 10 years of experience writing buggy software, iterating over it until it has less bugs, and then doing it all over again. Cloud infrastructure, governance, FinOps tooling — as both engineer and team lead. I ask a lot of questions — it's how I make sure we're solving the right problem for the right people.
+10+ years of writing buggy software, iterating until it has fewer bugs, and doing it all over again. Cloud infrastructure, FinOps tooling, multi-cloud platforms — as engineer and team lead.
 
-I'm result-driven but value-driven first. If something doesn't serve the user or move the company forward, I want to understand why we're doing it. I care deeply about the user perspective and making sure engineering effort translates into real outcomes.
+I ask a lot of questions. Not because I don't understand — because the most expensive bug is building the wrong feature perfectly.
 
-**Strong believer in convention over configuration, opinionated frameworks, and consistent code.** I'd rather follow an established pattern well than reinvent it.
+Value-driven first. Not everything worth doing is obvious — but everything not worth doing is.
 
-I'm also a supercommunicator — I go into meetings to discuss the things that can't be resolved async, and I make sure we leave with results. Outside of meetings, whatever the channel is, I'm there. I leave a footprint. I make sure everyone is aligned before, while, and after we build.
+**I build and I operate what I build.** You don't truly understand what you've shipped until you're the one on-call at 3am.
 
-**I build and I operate what I build.** That's the learning loop — VMware taught me this, Broadcom reinforced it. You don't truly understand what you've built until you're the one on-call for it at 3am.
+I live in the terminal. tmux from my phone — building at the supermarket, the bank, anywhere there's a gap. With AI, I'm just 100x faster at making mistakes and learning from them. I haven't stopped building. Not once.
 
-I live in the terminal. I don't use VSCode — I work in Cursor and Claude Code hourly, not daily. Active Claude Code Max subscriber, maxing out my subscription every week building side projects. With AI, I'm just 100x faster at making mistakes and learning from them. I tmux from my phone — building while waiting at the supermarket, at the bank, wherever. I am addicted to building things and I'm never going to stop.
+Supercommunicator. Meetings only for what can't be resolved async — and we leave with results. I leave a footprint.
 
 Trilingual: English, German, Bulgarian.
 
-> For more about who I am as a builder, see [MARTIN.md](MARTIN.md).
 > For the HR-friendly version, see [BORING.md](BORING.md).
 
 ---
