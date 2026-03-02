@@ -22,6 +22,12 @@ Builder, cloud architect, and terminal addict — currently going deep on AI age
 
 ---
 
+## What I'm Into Right Now
+
+Deep in AI agent territory. Uncovering the magic of managing parallel agents — trying to make everything stick. The hardest part is moving forward with everything all at once — exactly my territory.
+
+---
+
 ## About
 
 Passionate software builder with over 10 years of experience writing buggy software, iterating over it until it has less bugs, and then doing it all over again. Cloud infrastructure, governance, FinOps tooling — as both engineer and team lead. I ask a lot of questions — it's how I make sure we're solving the right problem for the right people.
