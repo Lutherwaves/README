@@ -71,7 +71,7 @@ I put my money where my mouth is: sponsor of [**llama.cpp**](https://github.com/
 Learned to do more with less. Built and operated everything — nothing is bottlenecked on me. A clean handoff is just a doc with repo links. Wrote more code here than in all my previous roles combined, and with AI in the loop, iterated faster than ever.
 
 - Built Broadcom's cloud inventory and chargeback system — ensuring every account, project, and subscription across AWS, GCP, and Azure is attributed to the right team with accurate billing data, giving Product BUs a realistic picture of their cloud spend
-- Stuck to established patterns throughout: REST, OpenAPI, microservices — simple, maintainable, no reinvention
+- Kept to established patterns: REST, OpenAPI, microservices — simple, maintainable, no reinvention
 - Became a decision evaluator — learned to get the most out of every developer, even those with zero interest in learning
 
 ### R&D Manager — VMware
@@ -103,7 +103,7 @@ Grew up watching my parents' construction company build things — this role bro
 ### Full Stack Software Engineer — G Adventures
 *Feb 2020 – Apr 2020*
 
-First time being given full ownership of a project end-to-end — "build it however you want, we'll discuss and adjust." Learned that no company will ever have a perfect internal system, things change rapidly, just like the world.
+First time being given full ownership of a project end-to-end — "build it however you want, we'll discuss and adjust." No company has a perfect system. Things change fast. That's the job.
 
 - Built API layer in Django, contributed to React/Redux/Apollo frontend for trip management
 - Used my own travel experience to drive product decisions and iterate fast
@@ -113,7 +113,7 @@ First time being given full ownership of a project end-to-end — "build it howe
 
 First time my engineering skills brought value to a real product. Sat desk-to-desk with the CTO discussing architecture. Full ownership, full accountability. Experimented constantly to figure out how the company could reduce customer churn.
 
-- Built and iterated on data science web apps, Vue frontend redesigns, Ionic PWAs
+- Data science web apps, Vue frontend redesigns, Ionic PWAs — iterated on all of it
 - Deployed and managed everything on Azure
 - Main developer in Founders Foundation Startup Accelerator
 
