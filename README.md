@@ -24,7 +24,7 @@ Builder, cloud architect, and terminal addict — currently going deep on AI age
 
 ## What I'm Into Right Now
 
-Deep in AI agent territory. Uncovering the magic of managing parallel agents — trying to make everything stick. The hardest part is moving forward with everything all at once — exactly my territory.
+Deep in AI agent territory. Running multiple agents in parallel, context-switching between them fast enough to keep everything moving. The real work isn't the agents — it's being the one who holds it all together. Built for exactly that.
 
 ---
 
