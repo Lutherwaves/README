@@ -30,7 +30,7 @@ Deep in AI agent territory. Running multiple agents in parallel, context-switchi
 
 ## About
 
-10+ years of writing buggy software, iterating until it has fewer bugs, and doing it all over again. Cloud infrastructure, FinOps tooling, multi-cloud platforms — as engineer and team lead.
+10+ years of writing buggy software, iterating until it has fewer bugs, and doing it all over again. Cloud infrastructure, FinOps tooling, multi-cloud platforms.
 
 I ask a lot of questions. Not because I don't understand — because the most expensive bug is building the wrong feature perfectly.
 
@@ -40,7 +40,7 @@ Value-driven first. Not everything worth doing is obvious — but everything not
 
 I live in the terminal. tmux from my phone — building at the supermarket, the bank, anywhere there's a gap. With AI, I'm just 100x faster at making mistakes and learning from them. I haven't stopped building. Not once.
 
-Supercommunicator. Meetings only for what can't be resolved async — and we leave with results. I leave a footprint.
+Meetings only for what can't be resolved async — and we leave with results. I leave a footprint.
 
 Trilingual: English, German, Bulgarian.
 
