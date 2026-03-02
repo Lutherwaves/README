@@ -48,6 +48,13 @@ Trilingual: English, German, Bulgarian.
 
 ---
 
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lutherwaves&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lutherwaves&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ## Open Source
 
 I believe that with AI on the rise, generic software has no business being closed and proprietary. Niche, competitive industries have their reasons for keeping things closed — but everything else should be open.
