@@ -150,14 +150,6 @@ Went to the interview, answered zero questions correctly. The CTO said "you know
 
 ---
 
-## Why Work With Me
-
-I ask a lot of questions, I'm brutally honest, I iterate fast, and I build and operate what I ship.
-
-Happy to help with open source, ideation, mentoring, or anything that sparks my interest.
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
