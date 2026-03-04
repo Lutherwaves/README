@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/Lutherwaves/README/compare/v1.6.0...v1.7.0) (2026-03-04)
+
+
+### Features
+
+* fix nav slugs, add GCP certs with Credly links, add patent IDs ([fc250f5](https://github.com/Lutherwaves/README/commit/fc250f5ba2233aac47be2cb3fb73c74fa0bfd5e7))
+
 # [1.6.0](https://github.com/Lutherwaves/README/compare/v1.5.0...v1.6.0) (2026-03-04)
 
 
