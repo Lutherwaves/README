@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/Lutherwaves/README/compare/v1.5.0...v1.6.0) (2026-03-04)
+
+
+### Features
+
+* de-I voice throughout, rename BORING to LONG, add Short/Long nav ([21047b5](https://github.com/Lutherwaves/README/commit/21047b535d61e947c4bf427256b5735027d21f45))
+
 # [1.5.0](https://github.com/Lutherwaves/README/compare/v1.4.0...v1.5.0) (2026-03-02)
 
 
