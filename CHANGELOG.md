@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/Lutherwaves/README/compare/v1.7.0...v1.7.1) (2026-03-04)
+
+
+### Bug Fixes
+
+* wording on pages ([32d4f18](https://github.com/Lutherwaves/README/commit/32d4f1814ab1f8bd7e5e0f3c103ae3b9a0b9561e))
+
 # [1.7.0](https://github.com/Lutherwaves/README/compare/v1.6.0...v1.7.0) (2026-03-04)
 
 
