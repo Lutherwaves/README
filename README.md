@@ -130,14 +130,14 @@ Sponsor of [**llama.cpp**](https://github.com/ggml-org/llama.cpp), [**Open WebUI
 | **Frontend** | Angular, React, Vue, Ionic |
 | **Infra & Ops** | Kubernetes, CI/CD, Grafana, Prometheus, IAM/Security Governance, SOC2/PCI DSS |
 | **Tools** | Claude Code, Cursor, tmux, terminal-first workflow |
-| **Certifications** | Google Cloud (Core Infrastructure, Terraform, Security, Networking, GKE) |
+| **Certifications** | Google Cloud (Core Infrastructure, Terraform, Security, Networking, GKE, [GenAI Leader](https://www.credly.com/badges/9911a7b6-0cac-4b2f-bd22-0d106191f4db/linked_in_profile), [Associate Cloud Engineer](https://www.credly.com/badges/b82ad90c-03c4-4b05-9729-2e2bac260fd3/linked_in_profile)) · [All credentials ↗](https://www.credly.com/users/martin-yankov.d8a8ae03/badges#credly) · [Skills ↗](https://www.credly.com/users/martin-yankov.d8a8ae03/skills) |
 
 ---
 
 ## Patents
 
-- Modular system for preparatory repairs of buildings (BG, 2020)
-- Construction process management and control system (BG, 2020)
+- **BG 3721 U1** · Jun 29, 2020 — Modular system for preparatory repairs of buildings
+- **BG 3640 U1** · Jun 1, 2020 — Construction process management and control system
 
 ---
 

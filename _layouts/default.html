@@ -8,16 +8,15 @@
 </head>
 <body>
   <nav class="site-nav no-print">
-    <a href="{{ '/' | relative_url }}">About</a>
-    <a href="{{ '/MARTIN' | relative_url }}">Me</a>
-    <a href="{{ '/BORING' | relative_url }}">Resume</a>
+    <a href="{{ '/' | relative_url }}">Short</a>
+    <a href="{{ '/LONG' | relative_url }}">Long</a>
   </nav>
   <main class="content">
     {{ content }}
   </main>
   <script>
-    // Add print button only on BORING page
-    if (window.location.pathname.includes('BORING')) {
+    // Add print button only on LONG page
+    if (window.location.pathname.includes('LONG')) {
       var btn = document.createElement('button');
       btn.textContent = 'Save as PDF';
       btn.className = 'print-btn no-print';

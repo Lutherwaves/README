@@ -129,6 +129,8 @@ Software Engineering Lead with 10+ years of experience in cloud infrastructure, 
 
 ## Certifications
 
+- [Google Cloud Certified Generative AI Leader](https://www.credly.com/badges/9911a7b6-0cac-4b2f-bd22-0d106191f4db/linked_in_profile)
+- [Google Cloud Certified Associate Cloud Engineer](https://www.credly.com/badges/b82ad90c-03c4-4b05-9729-2e2bac260fd3/linked_in_profile)
 - Google Cloud Fundamentals: Core Infrastructure
 - Build Infrastructure with Terraform on Google Cloud
 - Build a Secure Google Cloud Network
@@ -139,12 +141,14 @@ Software Engineering Lead with 10+ years of experience in cloud infrastructure, 
 - Develop Your Google Cloud Network
 - Complete React Developer (2020)
 
+[All credentials ↗](https://www.credly.com/users/martin-yankov.d8a8ae03/badges#credly) · [Skills ↗](https://www.credly.com/users/martin-yankov.d8a8ae03/skills)
+
 ---
 
 ## Patents
 
-- Modular system for preparatory repairs of buildings (Bulgaria, 2020)
-- Construction process management and control system (Bulgaria, 2020)
+- **BG 3721 U1** · Jun 29, 2020 — Modular system for preparatory repairs of buildings
+- **BG 3640 U1** · Jun 1, 2020 — Construction process management and control system
 
 ---
 
