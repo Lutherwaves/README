@@ -19,10 +19,10 @@ Software Engineering Lead with 10+ years of experience in cloud infrastructure, 
 
 - Designed and built Broadcom's company-wide cloud inventory and chargeback platform from the ground up, initially as sole developer, later scaling to a team with microservice architecture deployed on GKE with Helm and fully automated CI/CD through GitOps
 - Platform serves all Broadcom business units across both Software and Semiconductor divisions (VCF, ESG, AOD amongst the largest), managing terabytes of billing data and millions of dollars in spend across AWS, GCP, Azure, and additional hyperscalers including Alibaba, Azure China, Oracle, and IBM
-- CUD engineering, spend optimization, and wastage reduction efforts contributed to tens of millions of dollars in savings
-- Personally identified and decommissioned 5,000+ orphaned and stale cloud accounts, reducing waste and security exposure
+- Worked with the team to identfy and decommission 5,000+ orphaned and stale cloud accounts, reducing waste and security exposure
 - Enabled SecOps to automatically enrich security data with accurate account ownership, reducing time to contact owners on identified vulnerabilities from hours to minutes
-- Achieved high product adoption with dozens of daily active users across engineering, finance, and security teams
+- Achieved high product adoption with dozens of daily active users across engineering, finance, and security teams, as well as our FinOps team
+- Enabled anyone in Broadcom to proactively self-service manage ownership of their accounts - full transparency within the product business units for who owns what
 - Architected all services using OpenAPI, Node.js/Express, and Angular with zero single points of failure
 
 ### R&D Manager | VMware
@@ -32,7 +32,7 @@ Software Engineering Lead with 10+ years of experience in cloud infrastructure, 
 - Managed a sub-team of 6 engineers within a wider organization of 30 distributed across Ireland, India, US, Bulgaria, and Armenia, responsible for Public Cloud Governance across 12,000+ accounts in AWS, GCP, and Azure
 - Operated a ring-0 internal cloud access service at 99.999% availability, depended on daily by all VMware SRE teams
 - Participated in weekly on-call rotation (2-person coverage), handling PagerDuty alerts, ticket queue processing, and support escalations following established incident procedures
-- Led post-incident reviews, Jira follow-ups, root cause analysis, and presented incident findings to senior leadership
+- Led post-incident reviews, tracking follow-ups, root cause analysis, and presented incident findings to senior leadership
 - Balanced roadmap delivery across feature development, SOC2/PCI DSS/ISO compliance, and operational load
 - Contributed to catching and mitigating dozens of potential security breaches through centralized IAM governance
 - The team's SOC2/PCI-compliant platform served as VMware's central access control layer, significantly reducing the company's attack surface since inception
