@@ -1,146 +1,24 @@
 # Hi, I'm Martin 👋
 
-**Short** · [Long](LONG)
+Building **Blox** — dream big, build simple.  
+Cloud architect by trade, terminal addict, deep in AI agents.
 
-Builder, cloud architect, and terminal addict — currently going deep on AI agents.
+`martin@yankovs.com` · [yankovs.com](https://yankovs.com) · [linkedin](https://www.linkedin.com/in/mdyankov)
 
-[![Markdown Lint](https://github.com/Lutherwaves/README/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/Lutherwaves/README/actions/workflows/markdown-lint.yml)
-[![Deploy to GitHub Pages](https://github.com/Lutherwaves/README/actions/workflows/pages.yml/badge.svg)](https://github.com/Lutherwaves/README/actions/workflows/pages.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Believer-brightgreen.svg)](#open-source)
-[![Claude Max](https://img.shields.io/badge/Claude-Max-blueviolet.svg)](#about)
-[![Neovim](https://img.shields.io/badge/Neovim-User-57A143.svg?logo=neovim&logoColor=white)](#skills)
-<br>
-[![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)](#skills)
-[![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)](#skills)
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](#skills)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white)](#skills)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white)](#skills)
-[![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white)](#skills)
-[![GCP](https://img.shields.io/badge/GCP-4285F4.svg?logo=googlecloud&logoColor=white)](#skills)
-[![Azure](https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white)](#skills)
+## Skills I've Built
 
-`martin@yankovs.com` | [linkedin.com/in/mdyankov](https://www.linkedin.com/in/mdyankov) | [yankovs.com](https://yankovs.com)
+For Claude Code:
 
----
-
-## What I'm Into Right Now
-
-Deep in AI agent territory. Multiple agents running in parallel, context-switching fast enough to keep everything moving. The real work isn't the agents — it's holding it all together. Wired for exactly that.
-
----
-
-## About
-
-10+ years of writing buggy software, iterating until it has fewer bugs, and doing it all over again. Cloud infrastructure, FinOps tooling, multi-cloud platforms.
-
-Ask a lot of questions. Not for lack of understanding — because the most expensive bug is building the wrong feature perfectly.
-
-Value-driven first. Not everything worth doing is obvious — but everything not worth doing is.
-
-**Build and operate.** You don't truly understand what you've shipped until you're the one on-call at 3am.
-
-Terminal-first. tmux from a phone — building at the supermarket, the bank, anywhere there's a gap. With AI, 100x faster at making mistakes and learning from them.
-
-Meetings only for what can't be resolved async — and we leave with results.
-
-Trilingual: English, German, Bulgarian.
-
-For the full picture, see [Long](LONG).
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lutherwaves&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lutherwaves&layout=compact&theme=dark&hide_border=true)
-
----
+- 🔨 **[eopowers](https://github.com/Lutherwaves/eopowers)** — Bulgarian public procurement (eop.bg)
+- 💰 **[coinskills](https://github.com/Lutherwaves/coinskills)** — personal finance
+- 📚 **[lutherskills](https://github.com/Lutherwaves/lutherskills)** — self-directed learning
 
 ## Open Source
 
-With AI on the rise, generic software has no business being closed and proprietary. Niche, competitive industries have their reasons for keeping things closed — but everything else should be open.
+Contributor to **[tink3rlabs/magic](https://github.com/tink3rlabs/magic)** and **[Open WebUI](https://github.com/open-webui/open-webui)**, among other projects.
 
-Sponsor of [**llama.cpp**](https://github.com/ggml-org/llama.cpp), [**Open WebUI**](https://github.com/open-webui/open-webui), and [**OpenClaw**](https://github.com/openclaw/openclaw). Active maintainer of [**tink3rlabs/magic**](https://github.com/tink3rlabs/magic). Contributor to Open WebUI and OpenClaw amongst other projects. Contributing to the community proactively — wherever it lives.
+## Also
 
----
-
-## Experience
-
-### Software Engineering Lead — Broadcom
-*Jan 2024 – Present*
-
-- Built Broadcom's cloud inventory and chargeback system — ensuring every account, project, and subscription across AWS, GCP, and Azure is attributed to the right team with accurate billing data, giving Product BUs a realistic picture of their cloud spend
-- Kept to established patterns: REST, OpenAPI, microservices — simple, maintainable, no reinvention
-- Became a decision evaluator — getting the most out of every developer, even those with zero interest in learning
-
-### R&D Manager — VMware
-*Dec 2022 – Jan 2024*
-
-- Led a globally distributed team running a ring-0 cloud access service at 99.999% uptime
-- Trusted engineers with solutions and let them learn from mistakes, rather than micro-managing with "the right way according to me"
-- Owned roadmap planning, balancing SOC2/PCI DSS/ISO compliance with feature delivery
-
-### Full Stack Software Engineer — VMware
-*Jan 2021 – Dec 2022*
-
-- Co-architected a ground-up refactor of an event-driven multi-cloud access platform (Terraform + Lambdas deploying across 17,000+ accounts in all AWS regions simultaneously) — 99.9999% availability, strict monitoring, observability, on-call
-- The platform provided just-in-time credentials used by all SRE teams to access and troubleshoot cloud accounts
-- Established standards — documentation, Jira tracking, development practices — to scale from a small crew to a real operation
-
-### Full Stack Software Engineer — TEKOM
-*Apr 2020 – Jan 2021*
-
-- Built custom software for process automation and data collection on- and off-site
-- Introduced agile practices to construction teams who'd never seen them
-
-### Full Stack Software Engineer — G Adventures
-*Feb 2020 – Apr 2020*
-
-- Built API layer in Django, contributed to React/Redux/Apollo frontend for trip management
-- Drew on travel experience to drive product decisions and iterate fast
-
-### Full Stack Software Engineer — Hadoco
-*Dec 2017 – Dec 2019*
-
-- Data science web apps, Vue frontend redesigns, Ionic PWAs — iterated on all of it
-- Deployed and managed everything on Azure
-- Main developer in Founders Foundation Startup Accelerator
-
-### Junior Software Engineer — stressfrei / stressfrei Logistik
-*Dec 2016 – Jul 2017*
-
-- Built, SEO-optimized, and published 5–6 websites in raw PHP and Bootstrap, including company main site and subsidiary sites
-- Built internal mobile time recording system for employees
-
----
-
-## Education
-
-**B.Sc. Business Computer Science** — University of Munster
-
----
-
-## Skills
-
-| Category | Technologies |
-|----------|-------------|
-| **Cloud** | AWS, GCP, Azure, GKE, EKS, Terraform, FinOps |
-| **Backend** | Node.js, Express, Go, Django, OpenAPI, GraphQL |
-| **Frontend** | Angular, React, Vue, Ionic |
-| **Infra & Ops** | Kubernetes, CI/CD, Grafana, Prometheus, IAM/Security Governance, SOC2/PCI DSS |
-| **Tools** | Claude Code, Cursor, tmux, terminal-first workflow |
-| **Certifications** | Google Cloud (Core Infrastructure, Terraform, Security, Networking, GKE, [GenAI Leader](https://www.credly.com/badges/9911a7b6-0cac-4b2f-bd22-0d106191f4db/linked_in_profile), [Associate Cloud Engineer](https://www.credly.com/badges/b82ad90c-03c4-4b05-9729-2e2bac260fd3/linked_in_profile)) · [All credentials ↗](https://www.credly.com/users/martin-yankov.d8a8ae03/badges#credly) · [Skills ↗](https://www.credly.com/users/martin-yankov.d8a8ae03/skills) |
-
----
-
-## Patents
-
-- **BG 3721 U1** · Jun 29, 2020 — Modular system for preparatory repairs of buildings
-- **BG 3640 U1** · Jun 1, 2020 — Construction process management and control system
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+- 🍳 **[debugmydinner.com](https://debugmydinner.com)** — cooking blog
+- ✍️ **[blog.yankovs.com](https://blog.yankovs.com)** — writing
+- 🧰 **[dotfiles](https://github.com/Lutherwaves/dotfiles)** — terminal setup
