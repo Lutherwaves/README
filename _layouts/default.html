@@ -7,22 +7,8 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <nav class="site-nav no-print">
-    <a href="{{ '/' | relative_url }}">Short</a>
-    <a href="{{ '/LONG' | relative_url }}">Long</a>
-  </nav>
   <main class="content">
     {{ content }}
   </main>
-  <script>
-    // Add print button only on LONG page
-    if (window.location.pathname.includes('LONG')) {
-      var btn = document.createElement('button');
-      btn.textContent = 'Save as PDF';
-      btn.className = 'print-btn no-print';
-      btn.onclick = function() { window.print(); };
-      document.querySelector('.content').prepend(btn);
-    }
-  </script>
 </body>
 </html>
