@@ -1,6 +1,6 @@
 # Hi, I'm Martin 👋
 
-Building **Blox** — dream big, build simple.
+Building **Blox** — dream big, build simple.  
 Cloud architect by trade, terminal addict, deep in AI agents.
 
 `martin@yankovs.com` · [yankovs.com](https://yankovs.com) · [linkedin](https://www.linkedin.com/in/mdyankov)
