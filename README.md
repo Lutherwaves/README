@@ -1,7 +1,7 @@
 # Hi, I'm Martin 👋
 
-Heads-down builder — dream big, build simple.  
-Cloud architect by trade, terminal addict, deep in AI agents.
+Builder — software, and whatever else needs making.  
+I try to make things that help more than they hurt to use.
 
 `martin@yankovs.com` · [yankovs.com](https://yankovs.com) · [linkedin](https://www.linkedin.com/in/mdyankov)
 
